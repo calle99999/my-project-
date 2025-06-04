@@ -1,4 +1,6 @@
-Summary
+# Project Title
+
+my-project-carl99999
 
 Detta projekt bygger ett AI-baserat spamfilter som automatiskt klassificerar e-post som spam eller inte spam. Målet är att hjälpa användare att slippa oönskade e-postmeddelanden och hålla inkorgen ren. Building AI course project.
 
